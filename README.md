@@ -1,1 +1,1 @@
-# cptr203-git-lab
+Team X: a "fun" project
